@@ -3,7 +3,7 @@
 
 图虫（Tuchong）是一款现代化、易用、隐私安全的 AI 图像生成工具，为 AI 创作者提供一站式生成体验，支持部署到 Cloudflare Workers，并可使用 Cloudflare Workers AI 模型。
 
-![](docs/public/images/demo/preview.png)
+![图虫 AI 图像生成界面](docs/public/images/demo/preview.png)
 
 ## 🎯 快速使用
 
@@ -190,4 +190,3 @@ src/
 ```
 
 ---
-
